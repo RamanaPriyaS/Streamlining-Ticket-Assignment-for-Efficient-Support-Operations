@@ -106,4 +106,4 @@ This project successfully demonstrates how automation in **ServiceNow** can stre
 
 📄 **Version:** 1.0  
 📅 **Date:** November 2025  
-© 2025 – Team SN2025TMID00777 | All Rights Reserved
+© 2025 All Rights Reserved
