@@ -1,7 +1,3 @@
-# Streamlining-Ticket-Assignment-for-Efficient-Support-Operations
-This project aims to automate and optimize the ticket assignment process in ServiceNow by implementing intelligent assignment rules, business logic, and round-robin distribution. It ensures faster ticket routing, balanced workload distribution among agents, and reduced manual intervention— improving response time, and overall service quality.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🚀 Streamlining Ticket Assignment for Efficient Support Operations
 
 This repository documents the end-to-end Agile project **"Streamlining Ticket Assignment in ServiceNow"**, focused on automating and optimizing the ticket assignment workflow for faster, more efficient IT support operations.  
