@@ -86,7 +86,7 @@ The primary goal is to **automate the ticket assignment process** in ServiceNow,
 
 ## 🎥 Demo Video
 📎 **Demo Video Link:**  
-[Watch Project Demo](https://drive.google.com/drive/folders/1Alqsa1Wl4rzaSX4K22lYLD6v7_jzIAwO?usp=drive_link)
+[Watch Project Demo](https://drive.google.com/file/d/1-JQ8RAtUE2sUMfqYaQSixsMftvIMGixn/view?usp=drivesdk)
 
 ---
 
